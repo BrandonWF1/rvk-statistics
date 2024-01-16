@@ -35,7 +35,7 @@
 ## Галерея
 
 <details>
-  <summary>Посомтреть галлерею</summary>
+  <summary>Посомтреть галерею</summary>
 
   ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%201.png)
 
