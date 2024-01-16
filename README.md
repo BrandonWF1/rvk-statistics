@@ -38,6 +38,17 @@
   <summary>Посомтреть галерею</summary>
 
   ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%201.png)
+  ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%202.png)
+  ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%203.png)
+  ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%204.png)
+  ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%205.png)
+  ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%206.png)
+  ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%207.png)
+  ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%208.png)
+  ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%209.png)
+  ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%210.png)
+  ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%211.png)
+  
 
 </details>
 
