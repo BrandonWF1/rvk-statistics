@@ -45,7 +45,6 @@
   ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%206.png)
   ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%207.png)
   ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%208.png)
-  ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen%209.png)
   ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen10.png)
   ![Изображение 1](https://github.com/BrandonWF1/rvk-statistics/blob/main/screen11.png)
   
